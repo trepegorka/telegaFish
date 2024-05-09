@@ -3568,6 +3568,7 @@ a.tgme_username_link:active {
   text-decoration: none;
 }
 .tgme_page_action {
+  cursor: pointer;
   text-align: center;
   margin-top: 24px;
   line-height: 0;
