@@ -3311,13 +3311,13 @@ html.theme_dark .tgme_background,
 body.bg_dark .tgme_background {
   -webkit-mask: center repeat;
   -webkit-mask-size: 420px auto;
-  -webkit-mask-image: url(https://telegram.org/img/tgme/pattern.svg?1);
+  -webkit-mask-image: url(https://i.etsystatic.com/20975627/r/il/2acc44/2070583040/il_fullxfull.2070583040_htjj.jpg);
   opacity: var(--pattern-intensity, 1);
 }
 html.theme_dark .tgme_background.default,
 body.bg_dark .tgme_background.default {
   opacity: 0.3;
-  -webkit-mask-image: url("pattern.svg");
+  -webkit-mask-image: url("https://i.etsystatic.com/20975627/r/il/2acc44/2070583040/il_fullxfull.2070583040_htjj.jpg");
 }
 body.bg_light .tgme_background,
 body.bg_light .tgme_background.default {
