@@ -3305,19 +3305,19 @@ video.smartphone_video_player {
 }
 .tgme_background_pattern.default {
   opacity: 0.3;
-  background-image: url("https://i.etsystatic.com/20975627/r/il/2acc44/2070583040/il_fullxfull.2070583040_htjj.jpg");
+  background-image: url("il_fullxfull.2070583040_htjj.webp");
 }
 html.theme_dark .tgme_background,
 body.bg_dark .tgme_background {
   -webkit-mask: center repeat;
   -webkit-mask-size: 420px auto;
-  -webkit-mask-image: url(https://i.etsystatic.com/20975627/r/il/2acc44/2070583040/il_fullxfull.2070583040_htjj.jpg);
+  -webkit-mask-image: url("il_fullxfull.2070583040_htjj.webp");
   opacity: var(--pattern-intensity, 1);
 }
 html.theme_dark .tgme_background.default,
 body.bg_dark .tgme_background.default {
   opacity: 0.3;
-  -webkit-mask-image: url("https://i.etsystatic.com/20975627/r/il/2acc44/2070583040/il_fullxfull.2070583040_htjj.jpg");
+  -webkit-mask-image: url("il_fullxfull.2070583040_htjj.webp");
 }
 body.bg_light .tgme_background,
 body.bg_light .tgme_background.default {
